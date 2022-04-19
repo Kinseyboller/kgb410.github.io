@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+	<!-- 
+		Final Project CMIS 410
+		Author: Kinsey Boller
+		Date: 3.28.2022
+		
+		These web pages are for educational purposes only, all content should be considered fictional. 
+	
+	-->
+
+<meta http-equiv = "Content-Type" content = "text/html; charset=utf-8" />
+<title>Kinsey's Homemade Ice Cream</title>
+   <link href="css/styles.css" rel="stylesheet" /
+
+
+</head>
+
+<body>
+
+<div id = "container"> 
+
+<header> 
+
+<a href="reviews.html"><img src="images/homemade.png" alt="homemade ice cream"/></a>
+
+</header> 
+
+<div id = "wrapper">
+		 
+<nav> 
+	<ul>
+	   <li><a href = "index.html">Home</a></li>
+	  <li><a href = "menu.html">Menu</a></li>
+	  <li><a href = "contactus.html">Contact Page</a></li>
+	  <li><a href = "reviews.html">Reviews</a></li>
+	</ul>
+</nav> 
+	 
+<article id = "main"> 
+
+<h2>Reviews</h2>
+	
+	
+	<figure>
+		<img src = "images/picture13.jpg" alt = "vanilla cone"  />
+	<figcaption>
+		Double scoop of the french vanilla ice cream on a cone
+	</figcaption>
+	
+	
+	
+	
+	<h3>Kathy Smarts</h3>
+		<p>"Kinsey's Homemade Ice Cream is one of my family stops! This is a very family friendly establishment and is perfect place to grab some ice cream on a hot day!"</p>
+		
+		
+	<h4>Tiny Thompson</h4>
+		<p>"Kinsey's Homemade Ice Cream has so many options to choose from. Everytime I got I have to get a new flavor! I think I like the Reese's double peanut butter ice cream the best!"</p>
+	
+	
+
+
+<iframe width="300" height="315" src="https://www.youtube.com/embed/vsdju8D0OtA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+	<figcaption>
+	How we scoop our ice cream
+	</figcaption>
+	</figcaption> 
+	  
+	  
+		
+	
+		 
+		
+
+		
+		
+
+</article> <!-- end main -->
+
+<aside> 
+
+<h3>Hours:</h3>
+
+	<p>Sunday: Closed</p>
+	<p>Monday-Saturday</p>
+	<p> 1:00 p.m. - 9:00 p.m.</p>
+	
+	
+	
+	
+	
+ 
+</figure>
+
+</aside>   
+
+<footer> 
+
+	<p>Kinsey's Homemade Ice Cream<br />
+	608 Main Street &bull; Everest KS 66424<br />
+	<a href = "https://facebook.com" target="_blank">Facebook</a> | <a href = "https://www.google.com/maps/place/Everest,+KS+66424/@39.6772301,-95.4313568,16z/data=!3m1!4b1!4m5!3m4!1s0x87bfc2cff891da0f:0x7b8ee3714cdaa62d!8m2!3d39.6772236!4d-95.4247001">Directions</a> |<a href = "785-741-5091">Telephone</a> | <a href = "kinseyboller01@gmail.com">Email Us</a></p>
+
+</footer>  
+
+</div> <!-- end wrapper --> 
+</div> <!-- end container -->
+
+</body>
+</html>
